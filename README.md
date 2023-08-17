@@ -6,7 +6,7 @@ The project aims to leverage cutting-edge computer vision and advanced machine l
 **Lane Detection: Enhancing Spatial Awareness**
 In the domain of lane detection, the project employs state-of-the-art computer vision methodologies to ensure precise identification and tracking of lane boundaries. This involves a series of intricate steps, including grayscale conversion of video frames, edge detection through the Canny filter, and selective region masking. These processes culminate in the accurate plotting of lane lines, empowering drivers with essential insights into road layout and aiding in maintaining safe trajectories.
 
-**Traffic Sign Recognition: Unveiling Road Regulations**
+**Traffic Sign Recognition: Unveiling Road Regulations** 
 Simultaneously, the project delves into the realm of traffic sign recognition, harnessing the capabilities of Convolutional Neural Networks (CNNs). Inspired by the renowned LeNet model, the system undergoes rigorous training on an extensive dataset of traffic signs. The objective is to achieve exceptional accuracy in identifying various road signs, thereby providing drivers with timely alerts and insights into road regulations.
 
 **Local Relevance: Addressing the Hyderabad Challenge**
