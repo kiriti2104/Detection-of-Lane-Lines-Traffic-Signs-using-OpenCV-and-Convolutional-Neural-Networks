@@ -1,4 +1,4 @@
-# Detection-of-Lane-Lines-Traffic-Signs-using-OpenCV-and-Convolutional-Neural-Networks
+# Detection-of-Lane-Lines-and-Traffic-Signs-using-OpenCV-and-Convolutional-Neural-Networks
 
 **Introduction:**
 The project aims to leverage cutting-edge computer vision and advanced machine learning techniques to develop a robust and intelligent driving system. By accurately detecting and alerting drivers about potential road hazards, such as lane deviations and traffic signs, the project seeks to significantly elevate driving safety and reduce accidents.
